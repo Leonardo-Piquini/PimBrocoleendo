@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\FazendaUrbana\FazendaUrbana\bin\Debug\FazendaUrbana.exe.config
+C:\Users\aluno\source\repos\FazendaUrbana\FazendaUrbana\bin\Debug\FazendaUrbana.exe
+C:\Users\aluno\source\repos\FazendaUrbana\FazendaUrbana\bin\Debug\FazendaUrbana.pdb
+C:\Users\aluno\source\repos\FazendaUrbana\FazendaUrbana\obj\Debug\FazendaUrbana.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\FazendaUrbana\FazendaUrbana\obj\Debug\FazendaUrbana.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\FazendaUrbana\FazendaUrbana\obj\Debug\FazendaUrbana.exe
+C:\Users\aluno\source\repos\FazendaUrbana\FazendaUrbana\obj\Debug\FazendaUrbana.pdb
